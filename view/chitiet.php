@@ -57,7 +57,7 @@ $upBy=$dataUpBy['data'];
                             <a href = "http://localhost/demo_oop_mvc/trang-chu"><img src = "../public/img/logo.PNG"></a>
                         </div>
                         <div class = "col-md-4 content2-header2">
-                            <i class="fas fa-phone"></i>&nbsp;&nbsp;&nbsp;0962389101<br><br>
+                            <i class="fas fa-phone"></i>&nbsp;&nbsp;&nbsp;09623891011<br><br>
                             <i class="fas fa-envelope-open"></i>&nbsp;&nbsp;&nbsp;aquyen23@gmail.com
                         </div>
                     </div>
