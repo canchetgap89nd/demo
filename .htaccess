@@ -1,0 +1,8 @@
+RewriteEngine on
+
+
+RewriteRule ^chi-tiet-([0-9]+).html$ view/chitiet.php?id=$1
+RewriteRule ^danh-sach-([0-9]+).html$ view/list2.php?loaitin=$1
+RewriteRule ^trang-chu$ view/index.php
+
+
